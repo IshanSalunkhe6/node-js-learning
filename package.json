@@ -5,7 +5,7 @@
   "main": "prac1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node prac1.js" 
+    "start": "node prac1.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/your-username/node-learning/issues"
   },
-  "homepage": "https://github.com/your-username/node-learning#readme"
+  "homepage": "https://github.com/your-username/node-learning#readme",
+  "dependencies": {
+    "url": "^0.11.4"
+  }
 }
