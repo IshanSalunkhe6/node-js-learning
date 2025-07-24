@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+node1/node_modules/
+
+# Logs
+logs
+*.log
+node1/logs/
+node1/*.log
+
+# Environment variables
+.env
+node1/.env
+
+# VSCode settings
+.vscode/
+node1/.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
