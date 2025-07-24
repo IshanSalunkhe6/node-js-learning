@@ -1,16 +1,24 @@
-# Node modules
+# Node modules (ignore in all subfolders)
 node_modules/
+node1/node_modules/
+node2/node_modules/
 
 # Logs
 logs
 *.log
+node1/*.log
+node2/*.log
 
-# Environment variables
+# Environment files
 .env
+node1/.env
+node2/.env
 
-# VSCode settings
+# VSCode
 .vscode/
+node1/.vscode/
+node2/.vscode/
 
-# OS files
+# OS junk
 .DS_Store
 Thumbs.db
