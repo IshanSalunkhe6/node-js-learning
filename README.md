@@ -1,2 +1,2 @@
-﻿# Node.js Learning Journey
-# ignore node1,node2
+﻿# Node.js 
+ignore node1,node2
